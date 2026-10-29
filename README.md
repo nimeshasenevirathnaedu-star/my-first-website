@@ -1,1 +1,10 @@
-# my-first-website
+<!DOCTYPE html>
+<html>
+<head>
+<title>My First Website</title>
+</head>
+<body>
+<h1>Hello, world!</h1>
+<p>This is my first website hosted on GitHub Pages.</p>
+</body>
+</html>
